@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Desarrollo api rest bitmusic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrip"
+  ],
+  "author": "carlos David Barco Hurtado",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.26"
+  }
+}
