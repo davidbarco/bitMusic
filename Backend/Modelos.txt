@@ -8,7 +8,7 @@ user{
     imagen
 }
 
-cancion{
+cancion{  song
     numero
     nombre
     duracion
@@ -23,7 +23,7 @@ imagen
 id_artista
 }
 
-artista{
+artista{  artist 
     id_artista
     nombre
     descripcion
